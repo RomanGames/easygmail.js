@@ -1,5 +1,6 @@
 # easygmail.js
 Easily send and receive Gmail on node.js
+version: 0.1.0
 
 ## How to use
 ### ready
